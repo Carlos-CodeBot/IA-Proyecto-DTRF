@@ -15,4 +15,4 @@ https://youtu.be/mu8VFl0tT7I
 
 ## Dataset
 
-https://drive.google.com/file/d/1JJjzw6AhqMLGzkAGTX9oW5iQ7aUFuvFo/view?usp=sharing 
+https://www.kaggle.com/datasets/whenamancodes/real-or-fake-jobs 
