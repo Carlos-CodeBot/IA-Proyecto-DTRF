@@ -11,3 +11,8 @@ a traves de IA clasificar trabajos fraudulentos o reales con ayuda de este datas
 ## Video Yotube 
 
 https://youtu.be/mu8VFl0tT7I
+
+
+## Dataset
+
+https://drive.google.com/file/d/1JJjzw6AhqMLGzkAGTX9oW5iQ7aUFuvFo/view?usp=sharing 
