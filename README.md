@@ -16,3 +16,6 @@ https://youtu.be/mu8VFl0tT7I
 ## Dataset
 
 https://www.kaggle.com/datasets/whenamancodes/real-or-fake-jobs 
+
+
+## Estimadores
