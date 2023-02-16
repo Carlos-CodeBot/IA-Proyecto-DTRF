@@ -6,3 +6,8 @@
 
 ## INTRODUCCION
 El objetivo del proyecto es a traves de IA clasificar trabajos fraudulentos o reales con ayuda de este dataset el cual contiene 18000 descripciones de puestos, de las cuales unas 800 son falsas, El conjunto de datos se puede utilizar para crear modelos de clasificación que pueden aprender las descripciones u otras caracteristicas de trabajos que pueden ser fraudulentas.
+
+
+## Video Yotube 
+
+https://youtu.be/mu8VFl0tT7I
